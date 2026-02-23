@@ -1,0 +1,1 @@
+A PyTorch implementation of the loss correction method proposed in the paper ["Resurfacing the Instance-only Dependent Label Noise Model through Loss Correction"](https://openreview.net/pdf?id=tuvkrivvbG), accepted to ICLR 2026.
